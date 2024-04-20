@@ -100,12 +100,6 @@
     box-shadow: 1px 1px 20px;
 }
 
-.landing .img_medellin {
-    width: 100vw;
-    height: 100vh;
-    position: absolute;
-}
-
 .landing {
     display: flex;
 }
